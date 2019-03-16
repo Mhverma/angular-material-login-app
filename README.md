@@ -1,6 +1,15 @@
 # MyFirstApp
 
+![Build Status](https://github.com/Mhverma/angular-material-login-app/blob/master/src/assets/passing.svg)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.2.
+
+## Angular Authentication With Firebase using Email and Password.
+In this user is authetincate by email address with firebase. If you don't already have Firebase setup, then logged in to [Firebase console](https://github.com/Mhverma/angular-material-login-app) and click on add project.
+
+
+
+
 
 ## Development server
 
