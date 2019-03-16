@@ -20,12 +20,12 @@ import { RegisterComponent } from './register/register.component';
 
 
 var firebase = {
-    apiKey: "AIzaSyBwfwHHmKx0WygjfPDw9ru9k7Dkmkr0LC4",
-    authDomain: "angular-login-app-f4a5d.firebaseapp.com",
-    databaseURL: "https://angular-login-app-f4a5d.firebaseio.com",
-    projectId: "angular-login-app-f4a5d",
-    storageBucket: "",
-    messagingSenderId: "698977555469"
+    apiKey: "YOUR_API_KEY",
+    authDomain: "YOUR_AUTH_DOMAIN",
+    databaseURL: "YOUR_DATABASE_URL",
+    projectId: "YOUR_PROJECT_ID",
+    storageBucket: "YOUR_STORAGE_BUCKET",
+    messagingSenderId: "YOUR_MESSAGING_SENDER_ID"
   };
 
 @NgModule({
